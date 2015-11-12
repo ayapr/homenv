@@ -1,0 +1,2 @@
+# homenv
+settings sync
