@@ -4,9 +4,9 @@
 ===========================================================================
 :help highlight-groups
 :help highlight-defaults
-#							*hl-ColorColumn*
+							*hl-ColorColumn*
 ColorColumn	used for the columns set with 'colorcolumn'
-#							*hl-Conceal*
+							*hl-Conceal*
 Conceal		placeholder characters substituted for concealed
 		text (see 'conceallevel')
 							*hl-Cursor*
