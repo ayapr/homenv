@@ -1,0 +1,9 @@
+0123456789
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+абвгдеёжзийклмнопрстуфхцчшщьыъэюя
+АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЬЫЪЭЮЯ
+
+o0O 1lI
