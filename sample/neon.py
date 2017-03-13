@@ -5,7 +5,7 @@ class Example(object):
 
     backquotes = `backquotes`
 
-    @memoize(size=10)        
+    @memoize(size=10)
     def Call(self, param1=None):
         u'''unicode'''
         return param1 + 10 * 10
